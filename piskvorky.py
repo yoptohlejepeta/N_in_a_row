@@ -100,5 +100,3 @@ def piskvorky():
     print(f'Vyhrává {hrajici_hrac}! ')
 
 piskvorky()
-
-#zprava
